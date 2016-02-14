@@ -1,0 +1,12 @@
+{
+  "name": "jqueryui-jtimepicker-addon",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meysampg/jQuery-jTimepicker-Addon.git"
+  },
+  "main": ["jquery-ui-timepicker-addon.js", "jquery-ui-timepicker-cc.js"],
+  "ignore": [
+  ],
+  "dependencies": {
+  }
+}
