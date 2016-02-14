@@ -2,6 +2,9 @@
 	"name": "meysampg/jqueryui-jtimepicker-addon",
 	"description": "The jDateTimePicker addon adds a timepicker to jQuery UI Datepicker with support Jalali calendar.",
 	"type": "component",
+	"license": [
+		"MIT"
+	],
 	"homepage": "http://pourganji.ir/projects/jQuery-jTimePicker-Addon",
 	"require": {
 		"robloach/component-installer": "*",
